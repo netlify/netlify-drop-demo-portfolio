@@ -1,4 +1,6 @@
-# Astro Starter Kit: Portfolio
+# # netlify-drop-demo-portfolio
+
+[Based on the Astro Starter Kit: Portfolio example](https://github.com/withastro/astro/tree/main/examples/portfolio)
 
 ```sh
 npm create astro@latest -- --template portfolio
@@ -28,4 +30,3 @@ All commands are run from the root of the project, from a terminal:
 ## 👀 Want to learn more?
 
 Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
-# netlify-drop-demo-portfolio
